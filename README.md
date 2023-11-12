@@ -12,6 +12,6 @@ To run this code, you will need to install the following dependencies:
 - Scikit-learn
 - Apex (optional, for accelerated training)
 
-These dependencies can be installed using Python's package manager, pip:
-```bash
-pip install pandas numpy torch scikit-learn
+**## Contact Information**
+Tong Jin
+Email: tong.jin@wisc.edu
